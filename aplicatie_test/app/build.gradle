@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.3"
 
     defaultConfig {
-        applicationId "rdc.practicaltest01var08"
+        applicationId "rdc.aplicatie_test"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1

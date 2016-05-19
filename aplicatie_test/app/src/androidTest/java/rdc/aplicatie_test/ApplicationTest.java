@@ -1,4 +1,4 @@
-package rdc.practicaltest01var08;
+package rdc.aplicatie_test;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
